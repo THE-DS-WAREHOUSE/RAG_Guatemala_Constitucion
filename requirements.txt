@@ -1,0 +1,8 @@
+PyMuPDF
+langchain
+langchain-core
+langchain-community
+chromadb
+sentence-transformers
+langchain-openai
+python-dotenv
